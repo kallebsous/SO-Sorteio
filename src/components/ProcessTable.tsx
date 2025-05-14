@@ -40,7 +40,7 @@ export function ProcessTable() {
 
   return (
     <Table>
-      <TableCaption>List of all processes in the simulation</TableCaption>
+      <TableCaption>Lista de Todos os Processos na Simulação</TableCaption>
       <TableHeader>
         <TableRow>
           <TableHead>ID</TableHead>
