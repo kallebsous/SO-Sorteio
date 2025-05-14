@@ -44,14 +44,14 @@ export function ProcessTable() {
       <TableHeader>
         <TableRow>
           <TableHead>ID</TableHead>
-          <TableHead>Arrival Time</TableHead>
-          <TableHead>Burst Time</TableHead>
-          <TableHead>Remaining</TableHead>
-          <TableHead>Progress</TableHead>
+          <TableHead>Tempo de chegada</TableHead>
+          <TableHead>Tempo de burst</TableHead>
+          <TableHead>Tempo restante</TableHead>
+          <TableHead>Progresso</TableHead>
           <TableHead>Tickets</TableHead>
-          <TableHead>State</TableHead>
-          <TableHead>Wait Time</TableHead>
-          <TableHead>Actions</TableHead>
+          <TableHead>Estado</TableHead>
+          <TableHead>Tempo de Espera</TableHead>
+          <TableHead>Açoes</TableHead>
         </TableRow>
       </TableHeader>
       <TableBody>
